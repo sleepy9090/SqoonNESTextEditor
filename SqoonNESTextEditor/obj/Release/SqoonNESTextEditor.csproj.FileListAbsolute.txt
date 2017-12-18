@@ -1,0 +1,7 @@
+F:\Users\sleepy\Documents\visual studio 2013\Projects\SqoonNESTextEditor\SqoonNESTextEditor\bin\Release\SqoonNESTextEditor.exe
+F:\Users\sleepy\Documents\visual studio 2013\Projects\SqoonNESTextEditor\SqoonNESTextEditor\bin\Release\SqoonNESTextEditor.pdb
+F:\Users\sleepy\Documents\visual studio 2013\Projects\SqoonNESTextEditor\SqoonNESTextEditor\obj\Release\SqoonNESTextEditor.FormSqoonMain.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\SqoonNESTextEditor\SqoonNESTextEditor\obj\Release\SqoonNESTextEditor.Properties.Resources.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\SqoonNESTextEditor\SqoonNESTextEditor\obj\Release\SqoonNESTextEditor.csproj.GenerateResource.Cache
+F:\Users\sleepy\Documents\visual studio 2013\Projects\SqoonNESTextEditor\SqoonNESTextEditor\obj\Release\SqoonNESTextEditor.exe
+F:\Users\sleepy\Documents\visual studio 2013\Projects\SqoonNESTextEditor\SqoonNESTextEditor\obj\Release\SqoonNESTextEditor.pdb

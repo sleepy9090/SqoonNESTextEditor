@@ -1,0 +1,8 @@
+f:\users\sleepy\documents\visual studio 2013\Projects\SqoonNESTextEditor\SqoonNESTextEditor\bin\Debug\SqoonNESTextEditor.exe
+f:\users\sleepy\documents\visual studio 2013\Projects\SqoonNESTextEditor\SqoonNESTextEditor\bin\Debug\SqoonNESTextEditor.pdb
+f:\users\sleepy\documents\visual studio 2013\Projects\SqoonNESTextEditor\SqoonNESTextEditor\obj\Debug\SqoonNESTextEditor.csprojResolveAssemblyReference.cache
+f:\users\sleepy\documents\visual studio 2013\Projects\SqoonNESTextEditor\SqoonNESTextEditor\obj\Debug\SqoonNESTextEditor.FormSqoonMain.resources
+f:\users\sleepy\documents\visual studio 2013\Projects\SqoonNESTextEditor\SqoonNESTextEditor\obj\Debug\SqoonNESTextEditor.Properties.Resources.resources
+f:\users\sleepy\documents\visual studio 2013\Projects\SqoonNESTextEditor\SqoonNESTextEditor\obj\Debug\SqoonNESTextEditor.csproj.GenerateResource.Cache
+f:\users\sleepy\documents\visual studio 2013\Projects\SqoonNESTextEditor\SqoonNESTextEditor\obj\Debug\SqoonNESTextEditor.exe
+f:\users\sleepy\documents\visual studio 2013\Projects\SqoonNESTextEditor\SqoonNESTextEditor\obj\Debug\SqoonNESTextEditor.pdb
